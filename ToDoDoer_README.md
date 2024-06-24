@@ -24,7 +24,6 @@ An application helps managing to-do tasks as a piece of cake! 🍰
 - [ToDoDoer 📝](#tododoer-)
   - [Features](#features)
   - [Table of contents](#table-of-contents)
-  - [Demo](#demo)
   - [Run](#run)
   - [Available Scripts](#available-scripts)
   - [Project file structure](#project-file-structure)
@@ -34,10 +33,6 @@ An application helps managing to-do tasks as a piece of cake! 🍰
   - [State management](#state-management)
   - [Contributing](#contributing)
   - [Feedback](#feedback)
-
-## Demo
-
-https://farimah71.github.io/ToDoDoer
 
 ## Run
 This project was bootstrapped with [create-vite](https://vitejs.dev/guide/).
