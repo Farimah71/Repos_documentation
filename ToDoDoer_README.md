@@ -32,7 +32,6 @@ An application helps managing to-do tasks as a piece of cake! 🍰
   - [Packages](#packages)
   - [Style](#style)
   - [State management](#state-management)
-  - [Badges](#badges)
   - [Contributing](#contributing)
   - [Feedback](#feedback)
 
