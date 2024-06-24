@@ -180,10 +180,6 @@ The Redux Toolkit package is intended to be the standard way to write Redux logi
 
 Learn more about [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started).
 
-## Badges
-
-[![MIT License](https://img.shields.io/github/repo-size/farimah71/ToDoDoer?style=flat-square)](https://choosealicense.com/licenses/mit/)
-
 ## Contributing
 We welcome contributions from the community. 💎
 
